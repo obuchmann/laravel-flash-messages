@@ -1,0 +1,27 @@
+{
+    "name": "pcweb/laravel-flash-messages",
+    "description": "Provides easy Flash Support for Laravel",
+    "authors": [
+        {
+            "name": "Oliver Buchmann",
+            "email": "o.buchmann@pc-web.at"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^8.0",
+        "illuminate/session": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PcWeb\\LaravelFlashMessages\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PcWeb\\LaravelFlashMessages\\FlashMessageServiceProvider"
+            ]
+        }
+    }
+}
