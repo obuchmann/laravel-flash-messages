@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "PcWeb\\LaravelFlashMessages\\": "src/"
+            "Obuchmann\\LaravelFlashMessages\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "PcWeb\\LaravelFlashMessages\\FlashMessageServiceProvider"
+                "Obuchmann\\LaravelFlashMessages\\FlashMessageServiceProvider"
             ]
         }
     }

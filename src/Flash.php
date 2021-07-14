@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ObuchmannLaravelFlashMessages;
+namespace Obuchmann\LaravelFlashMessages;
 
 
 use Illuminate\Support\Facades\Facade;
