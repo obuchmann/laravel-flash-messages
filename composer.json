@@ -1,6 +1,7 @@
 {
     "name": "obuchmann/laravel-flash-messages",
     "description": "Provides easy Flash Support for Laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "Oliver Buchmann",
