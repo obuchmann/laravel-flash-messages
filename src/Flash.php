@@ -1,14 +1,14 @@
 <?php
 
 
-namespace PcWeb\LaravelFlashMessages;
+namespace ObuchmannLaravelFlashMessages;
 
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class Flash
- * @package PcWeb\LaravelFlashMessages
+ * @package ObuchmannLaravelFlashMessages
  *
  * @method static void message(string $message, ?string $title = null, string $type = 'info')
  * @method static void success(string $message, ?string $title = null)

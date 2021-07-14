@@ -1,5 +1,5 @@
 {
-    "name": "pcweb/laravel-flash-messages",
+    "name": "obuchmann/laravel-flash-messages",
     "description": "Provides easy Flash Support for Laravel",
     "authors": [
         {

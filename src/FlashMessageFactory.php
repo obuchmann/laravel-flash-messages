@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PcWeb\LaravelFlashMessages;
+namespace ObuchmannLaravelFlashMessages;
 
 
 use Illuminate\Session\Store;

@@ -1,6 +1,6 @@
 <?php
 
-namespace PcWeb\LaravelFlashMessages;
+namespace ObuchmannLaravelFlashMessages;
 
 use Illuminate\Support\ServiceProvider;
 
